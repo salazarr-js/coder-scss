@@ -1,6 +1,17 @@
-# Coderhouse SASS Framework
+# 🎨 Coderhouse SASS Framework
 
-Creación de framework propio con SASS
+Creación de framework propio con SASS para [Coderhouse](https://www.coderhouse.com/ar/)
+
+## TODOs
+- [ ] Use semantic CSS variables
+  - https://blog.logrocket.com/how-to-use-css-variables/
+  - https://github.com/saadeghi/daisyui
+  - https://open-props.style/
+  - https://vercel.com/academy/shadcn-ui/exploring-globals-css
+  - https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/
+- [ ] Setup Vite
+  - https://vite.dev/
+- [ ] Deploy on Github Pages
 
 ## Comandos
 
