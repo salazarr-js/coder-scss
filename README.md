@@ -1,6 +1,6 @@
-# 🎨 Coderhouse SASS Framework
+# 🎨 Coderhouse SCSS Framework
 
-Creación de framework propio con SASS para [Coderhouse](https://www.coderhouse.com/ar/)
+Framework SCSS simple para [Coderhouse](https://www.coderhouse.com/ar/)
 
 ## TODOs
 - [ ] Use semantic CSS variables
